@@ -22,7 +22,7 @@
 #define CONFIG_MAC_NUM			2
 #define CONFIG_FTGMAC100
 #define CONFIG_PHY_MAX_ADDR		32
-#define CONFIG_FTGMAC100_EGIGA
+/*#define CONFIG_FTGMAC100_EGIGA*/
 
 /* platform.S settings */
 #define CONFIG_CPU_420			1
